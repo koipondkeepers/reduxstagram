@@ -1,6 +1,6 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation. An instagram copycat implemented with personal pictures. Comments and likes are not stored but is interactive.
 
 ## Running
 
